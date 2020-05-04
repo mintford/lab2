@@ -6,7 +6,7 @@
 На вход приходит два вектора которые умножаются скалярно
 
 
-![Image alt]()
+![Image alt](https://github.com/mintford/lab2/blob/master/lab_2/Screenshots/Снимок%204.PNG)
 ![Image alt]()
 ---------
 Задание 2: матричное умножение матриц
