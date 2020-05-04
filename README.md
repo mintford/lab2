@@ -5,7 +5,7 @@
 ---------
 На вход приходит два вектора которые умножаются скалярно
 
-![Image alt](https://github.com/mintford/lab2/blob/master/lab_2/Screenshots/Снимок%201.PNG)
+
 ![Image alt]()
 ![Image alt]()
 ---------
@@ -13,6 +13,7 @@
 ---------
 На вход приходит две матрицы которые проверяются на размерность и если они правильной размерности то они перемножаются между собой
 
+![Image alt](https://github.com/mintford/lab2/blob/master/lab_2/Screenshots/Снимок%201.PNG)
 ![Image alt]()
 ![Image alt]()
 ---------
