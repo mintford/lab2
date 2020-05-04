@@ -7,11 +7,9 @@
 
 
 ![Image alt](https://github.com/mintford/lab2/blob/master/lab_2/Screenshots/Снимок%204.PNG)
-![Image alt]()
+![Image alt](https://github.com/mintford/lab2/blob/master/lab_2/Screenshots/Снимок%205.PNG)
 ---------
 Задание 2: матричное умножение матриц
----------
-На вход приходит две матрицы которые проверяются на размерность и если они правильной размерности то они перемножаются между собой
 
 ![Image alt](https://github.com/mintford/lab2/blob/master/lab_2/Screenshots/Снимок%201.PNG)
 ![Image alt](https://github.com/mintford/lab2/blob/master/lab_2/Screenshots/Снимок%202.PNG)
